@@ -24,3 +24,11 @@ SEASONALITY: Sell during the spring season when prices are at their peak, and bu
 GRADE AND CONDITION: very important, more than house age. Keeping high end finishes and choosing high quality materials will lead to a profitable outcome.
 
 SIZE: Look for large living area rather than a lot size! Houses ranging from 2,500 sqft to 5,000 sqft have a high correlation to house prices.
+
+### Repository's Navigation  
+
+Code Notebook: King County Data Analysis .ipynb
+
+Presentation: King County Data Analysis Presentation (Natalia Edelson).pdf
+
+Data: king_county.csv
