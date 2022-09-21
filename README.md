@@ -28,8 +28,9 @@ SIZE: Look for large living area rather than a lot size! Houses ranging from 2,5
 
 ### Repository's Navigation  
 
-Code Notebook: King County Data Analysis .ipynb
+Jupyter Notebook Code: King County Data Analysis.ipynb
 
-Presentation: King County Data Analysis Presentation (Natalia Edelson).pdf
+Presentation: presentation.pdf
 
 Data: king_county.csv
+
