@@ -16,16 +16,13 @@ My data consisted of 21 columns and 21,597 rows.
 
 I have determined that the most valuable assets of a house in King County are zip code, view, grade and condition, square footage, and seasonality. Below are investment recommendations for Edegon and Company:
 
-LOCATION: Invest in the zip codes where the value of the house is higher than average in order to increase the chances of maintaining the house value. Consider investing in zip codes 98118, 98116, 98109, 98122, whose market value is currently mid-range but also include some of the most profitable housing features.
+**LOCATION:** Invest in the zip codes where the value of the house is higher than average in order to increase the chances of maintaining the house value. Consider investing in zip codes 98118, 98116, 98109, 98122, whose market value is currently mid-range but also include some of the most profitable housing features.  
 
-VIEW: Prioritize a house with a great view, particularly if it has a waterfront.
+**VIEW:** Prioritize a house with a great view, particularly if it has a waterfront.
 
-SEASONALITY: Sell during the spring season when prices are at their peak, and buy in the months of January and February
+**GRADE** Very important, more than house age. Keeping high end finishes and choosing high quality materials will lead to a profitable outcome. 
 
-GRADE AND CONDITION: very important, more than house age. Keeping high end finishes and choosing high quality materials will lead to a profitable outcome.
-
-SIZE: Look for large living area rather than a lot size! Houses ranging from 2,500 sqft to 5,000 sqft have a high correlation to house prices.
-
+**SIZE:** Look for large living area rather than a lot size! Houses ranging from 2,500 sqft to 5,000 sqft have a high correlation to house prices.
 ### Repository's Navigation  
 
 Jupyter Notebook Code: King County Data Analysis.ipynb
