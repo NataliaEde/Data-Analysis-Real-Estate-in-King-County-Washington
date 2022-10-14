@@ -23,6 +23,7 @@ I have determined that the most valuable assets of a house in King County are zi
 **GRADE** Very important, more than house age. Keeping high end finishes and choosing high quality materials will lead to a profitable outcome. 
 
 **SIZE:** Look for large living area rather than a lot size! Houses ranging from 2,500 sqft to 5,000 sqft have a high correlation to house prices.
+
 ### Repository's Navigation  
 
 Jupyter Notebook Code: King County Data Analysis.ipynb
