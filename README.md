@@ -23,7 +23,7 @@ In my analysis, I followed the following steps:
 * Interpret results
 
 
-### Exploratory Data Analisys 
+### Exploratory Data Analysis 
 
 My analysis determined that the following four features are most impactful (have the highest correlation) to house prices: square footage, grade, number of bathrooms, and view. 
 
