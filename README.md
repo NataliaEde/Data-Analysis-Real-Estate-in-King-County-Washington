@@ -4,7 +4,7 @@
 ![image](https://user-images.githubusercontent.com/44559346/191543006-8b0a9ec2-f677-47f4-9acf-8bfd5004d9af.png)
 
 
-### Overview:
+### Overview
 
 I conducted a case study to examine the housing market in King County , Washington. The purpose of this project is to advise a real estate investment firm in King County, Washington. 
 
@@ -21,7 +21,6 @@ In my analysis, I followed the following steps:
 * Prepare for the model 
 * Model the data & evaluate the model
 * Interpret results
-
 
 
 ### Exploratory Data Analisys 
@@ -57,7 +56,7 @@ Having a view, which is characterized by natural features such as water, mountai
 I predicted prices using linear regression. I used a stepwise selection function on the independent variables to determine which features to use for the linear regression model. The model showed R Squared as 79% in house prices, as explained by 82 housing features. 
 
 
-### Conclusions and Recommendations:
+### Conclusions and Recommendations
 
 Using the leaner regression model and data analysis, I have determined that the most valuable assets of a house in King County are certain zip codes, view, grade  and square footage. Below are my investment recommendations:
 
@@ -75,7 +74,7 @@ Using the leaner regression model and data analysis, I have determined that the 
 **SIZE:** Prioritize the size of the indoor, living area rather than the size of the lot. Houses ranging from 2,500 sqft to 5,000 sqft have a high correlation to house prices.
 
 
-### Next Steps:
+### Next Steps
 
 * Gather more data from previous years
 * Focus on profitable transactions (buy/ sell) with the new data.
