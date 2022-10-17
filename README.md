@@ -81,7 +81,6 @@ Using the leaner regression model and data analysis, I have determined that the 
 * Create a racking system for the housing features already mentioned above in order to see which are the most influential on house prices.
 
 
-
 ### Repository's Navigation  
 
 Jupyter Notebook Code: King County Data Analysis.ipynb
